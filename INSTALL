@@ -1,0 +1,9 @@
+Building Gemcoin
+
+See doc/readme-qt.rst for instructions on building Gemcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Gemcoin.
+
+See doc/build-*.txt for instructions on building gemcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Gemcoin.
